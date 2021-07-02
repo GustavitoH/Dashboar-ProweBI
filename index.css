@@ -1,0 +1,16 @@
+.text-powerbi {
+  color: #f1c913 !important;
+}
+
+#header img {
+  width: 80px;
+}
+
+#footer {
+  background-color: #f1c913;
+}
+
+#footer a {
+  text-decoration: none;
+  color: black;
+}
